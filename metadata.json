@@ -1,0 +1,6 @@
+{
+  "name": "FinPilot",
+  "description": "FinPilot is an autonomous AI Banking Operating System, serving as an intelligent financial co-pilot with a multi-agent orchestrator for customer acquisition, digital adoption, and digital engagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
